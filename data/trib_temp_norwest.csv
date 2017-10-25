@@ -1,0 +1,40 @@
+,name,state,code,upstream1,upstream2,upstream3,downstream1,downstream2,downstream3
+0,Hungry Horse,MT,HGH,13921,1676,2134,NA,NA,NA
+1,Grand Coulee,WA,GCL,23909,23903,NA,NA,NA,NA
+2,Rimrock Lake,WA,RIM,24137,23765,NA,24158,23780,23849
+3,Keechelus REsservoir,WA,KEE,23798,16076,NA,16066,NA,NA
+4,Kachess Reservoir,WA,KAC,16400,23799,NA,NA,NA,NA
+5,Cle Elum Reservoir,WA,CLE,23794,23795,NA,NA,NA,NA
+6,Bumping Lake,WA,BUM,NA,NA,NA,NA,NA,NA
+7,Prosser Reservoir,WA,PRO,16418,24366,24339,184,NA,NA
+8,McKay Reservoir,OR,MCK,NA,NA,NA,NA,NA,NA
+9,American Falls Reservoir,ID,AMF,905,NA,NA,NA,NA,NA
+10,Anderson Ranch Dam,ID,AND,18500,18484,18781,2387,NA,NA
+11,Arrowrock Dam,ID,ARK,18848,NA,NA,NA,NA,NA
+12,Lucky Peak Reservoir,ID,LUC,NA,NA,NA,NA,NA,NA
+13,Crane Praire Reservoir,OR,CRA,20894,20866,20865,NA,NA,NA
+14,Crescent Lake,OR,CRE,20986,12550,NA,NA,NA,NA
+15,Cascade Reservoir,ID,CSC,12433,NA,NA,NA,NA,NA
+16,Deadwood Dam,ID,DED,12517,NA,NA,2266,3088,NA
+17,Elwah Dam,WA,ELD,NA,NA,NA,25972,NA,NA
+18,Emigrant Lake,OR,EMI,NA,NA,NA,1477,NA,NA
+19,Black Canyon Dam,ID,EMM,2318,18269,NA,NA,NA,NA
+20,Glines Canyon Dam,WA,GLI,25968,25960,NA,25961,25984,NA
+21,Island Park,ID,ISL,17597,17126,16997,17618,17601,NA
+22,Jackson Lake,WY,JCK,NA,NA,NA,17547,17550,NA
+23,Milner Lake,ID,MIL,NA,NA,NA,NA,NA,NA
+24,Lake Walcott,ID,MIN,NA,NA,NA,NA,NA,NA
+25,Ochoco Reservoir,OR,OCH,NA,NA,NA,NA,NA,NA
+26,Lake Owyhee,OR,OWY,NA,NA,NA,2693,4849,NA
+27,Palisades Reservoir,ID,PAL,3472,3465,16973,NA,NA,NA
+28,Payette Lake,ID,PAY,8874,NA,NA,NA,NA,NA
+29,Phillips Lake,OR,PHL,9949,9948,9953,10114,NA,NA
+30,Potholes Reservoir,WA,POT,NA,NA,NA,NA,NA,NA
+31,Ririe Lake,ID,RIR,NA,NA,NA,NA,NA,NA
+32,Scoggins Dam,OR,SCO,NA,NA,NA,NA,NA,NA
+33,Soliders Meadow Reservoir,ID,SOL,NA,NA,NA,NA,NA,NA
+34,Thief Valley Dam,OR,THF,NA,NA,NA,NA,NA,NA
+35,Thompson Reservoir,OR,THM,NA,NA,NA,23681,NA,NA
+36,Warm Springs Reservoir,OR,WAR,18196,NA,NA,NA,NA,NA
+37,Wickiup Reservoir,OR,WIC,20984,NA,NA,NA,NA,NA
+38,Wildhorse Reservoir,NV,WLD,NA,NA,NA,NA,NA,NA

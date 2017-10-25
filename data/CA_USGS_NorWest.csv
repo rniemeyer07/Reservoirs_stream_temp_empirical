@@ -1,0 +1,82 @@
+site_code,upstream1_USGS,upstream2_USGS,upstream3_USGS,downstream1_USGS,downstream2_USGS,downstream3_USGS,upstream1_NW,upstream2_NW,upstream3_NW,downstream1_NW,downstream2_NW,downstream3_NW,upstream_dam,reservoir_temp,dam_completed,Notes
+CLE,,,,,,,,,,,,,,,,LEW is immediately downstream
+LEW,,,,11525500,11525655,,29456,28886,28824,28901,28971,28285,CLE,,,LEW just downstream of CLE 
+WHI,11371000,,,11372000,,,,,,31153,31154,31155,,,,
+SPC,,,,11370500,,,,,,,,,SHA,,,no upstream or downstream sites
+SHA,11342000,11368000,,,,,32079,32079,30878,30714,,,,,,
+BLB,11387200,11387000,,11388000,,,,,,32003,,,,,,
+SCD,,,,11470500,,,30189,30185,,30183,30171,,,11470000,,
+COY,11461500,,,11462000,,,,,,28110,,,,11461800,,
+INV,,,,,,,31093,,,,,,,,,
+WRS,,,,11465000,11465200,11465240,,,,,,,,,1982,"also known as lake sanoma, warm springs dam completed in 1982"
+BER,11453550,11453500,,11454000,,,,,,,,,,,1958,
+SAT,,,,11174000,,,31470,,,31946,,,NA,NA,,
+CVE,11173200,,,11173500,11173510,,,,,,,,NA,NA,,
+SNL,,,,,,,,,,,,,NA,NA,,"no upstream or downstream, and there is a ""forebay""(small reservoir) immediately downstream"
+CCH,,,,11126000,,,,,,,,,NA,NA,,
+PYM,,,,,,,,,,,,,NA,NA,,no upstream or downstream
+CAS,,,,,,,,,,,,,NA,NA,,no upstream or downstream
+PRA,,,,,,,,,,,,,NA,NA,,it's a flood control dam (won't use)
+PRR,,,,,,,,,,,,,NA,NA,,no upstream or downstream
+ISB,11187000,11185500,11186000,11191000,,,,,,,,,NA,NA,,
+SCC,11204100,11203580,,11204900,,,,,,,,,NA,NA,,
+TRM,11209900,11208730,11209500,11210950,,,,,,,,,NA,NA,,
+PNF,11218500,11213500,11216500,11221500,,,30799,30795,30800,,,,NA,NA,1954,
+WSN,,,,,,,,,,30792,30793,30794,NA,NA,,
+CTG,,,,,,,,,,,,,NA,NA,,no upstream or downstream
+MIL,11247000,11235000,11246500,11251000,11254000,,30556,30577,30554,,,,NA,NA,,
+HID,11257500,,,11258000,,,,,,,,,NA,NA,,
+BUC,11258980,11258960,,11259000,,,31099,,,,,,NA,NA,,
+OWN,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+MAR,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+BAR,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+EXC,,,,,,,,,,,,,NA,NA,,"no upstream, or downstream, BUT CAWR data has water temperature data"
+DNP,11285500,11276900,11276600,11289650,11290000,,31888,31889,31878,31877,31876,31873,NA,NA,,"more NorWest upstream and downstream sites, several upstream dams (more upstream than all the upstream observations)"
+CHV,,,,11277300,,,31110,31910,,30601,31908,31902,NA,NA,,
+HTH,11274790,,,11276500,11276600,11276900,,,,31892,30582,31887,NA,NA,,"also 30589 (NorWest) is more downstream, for 2011 - 2013"
+LYS,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+SWB,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+RLF,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+SLS,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+GDW,11299997,,,11302000,11302500,,,,,,,,TUL,NA,,just downstream of Tulloch Dam
+TUL,,,,11299997,,,,,,,,,NML,NA,,"just downstream of New Malones Dam (NML), just upstream of Goodwin Dam (GDW)"
+NML,11295400,,,,,,30602,31097,30588,,,,NA,NA,,"just upstream of Tulloch (TUL) dam, more upstream NorWest sites with 2 years"
+FRM,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+NHG,11308600,11308000,11306000,11308900,,,,,,,,,NA,NA,,
+PAR,11319500,,,,,,,,,,,,NA,NA,,
+SLB,11439500,,,,,,30570,30935,30574,30573,,,NA,NA,,
+BHC,,,,,,,,,,30571,,,NA,NA,,
+CMI,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+JNC,,,,,,,,,,,,,UNC,NA,,just downstream of Union Valley Reservoir
+UNV,,,,,,,30695,30746,30932,,,,NA,NA,,
+ICH,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+FOL,11433800,11433790,11446030,11446220,,,30964,30766,31014,,,,NA,NA,,
+NAT,11446220,,,11446500,11446700,11446980,,,,,,,FOL,NA,,
+GIL,,,,,,,,,,,,,LON,NA,,"no upstream, no downstream"
+LON,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+BIL,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+RBL,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+LVY,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+DNN,,,,10338700,,,,,,,,,NA,NA,,
+INP,,,,,,,,,,24708,24709,,NA,NA,,
+MRT,,,,,,,24718,24722,24723,24717,,,NA,NA,,
+PRS,,,,10340500,,,24633,24737,24736,,,,NA,NA,,
+BOC,,,,10344500,,,,,,,,,STP,NA,,
+STP,10343200,10341950,,,,,24698,24734,24709,,,,NA,NA,,
+CFW,,,,,,,32160,31373,31374,32048,,,NA,NA,,downstream site is at least ~15 km downtream (or more)
+ENG,11413700,11417500,11413520,11418000,11420800,11421000,32131,32167,32121,,,,NA,NA,,
+BUL,11413100,,,11413520,11413700,,30907,30879,30997,30912,30913,,NA,NA,,
+SLC,,,,,,,30659,,,,,,NA,NA,,
+LGV,,,,,,,30607,,,,,,NA,NA,,
+BCL,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+ORO,11396350,11394500,11404500,11407000,11407150,,30961,30614,,,,,NA,NA,,
+TAB,,,,11406920,,,,,,,,,ORO,NA,,
+BTV,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+ALM,,,,,,,30447,30450,30477,30882,30933,,MMW,NA,,
+MMW,,,,,,,,,,,,,NA,NA,,"no upstream, no downstream"
+DAV,,,,11391500,,,,,,,,,NA,NA,,"USGS downstream is pre 1967, NorWest had upstream but all single years in the 2000s"
+FRD,,,,,,,30646,,,30687,30677,30675,NA,NA,,forth NorWes year with ID 30664
+ANT,,,,,,,,,,,,,NA,NA,,"there was some upstream NorWest sites, but no downstream sites"
+CMN,,,,11323500,11325500,,,,,,,,PAR,NA,,"there is a USGS upstream, but it's upstream of Pardee (PAR)"
+KES,,,,11370500,,,30714,,,,,,,,,
+RTD,,,,11480500,,,,,,,,,,,,

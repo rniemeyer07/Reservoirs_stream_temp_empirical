@@ -1,0 +1,44 @@
+,name,state,code,upstream1,upstream2,upstream3,downstream1,downstream2,downstream3
+0,Hungry Horse,MT,HGH,NA,NA,NA,HGHM,NA,NA
+1,Grand Coulee,WA,GCL,CIBW,NA,NA,NA,NA,NA
+2,Rimrock Lake,WA,RIM,NA,NA,NA,NA,NA,NA
+3,Keechelus Resservoir,WA,KEE,NA,NA,NA,NA,NA,NA
+4,Kachess Reservoir,WA,KAC,NA,NA,NA,NA,NA,NA
+5,Cle Elum Reservoir,WA,CLE,NA,NA,NA,NA,NA,NA
+6,Bumping Lake,WA,BUM,NA,NA,NA,NA,NA,NA
+7,Prosser Reservoir,WA,PRO,NA,NA,NA,NA,NA,NA
+8,McKay Reservoir,OR,MCK,NA,NA,NA,NA,NA,NA
+9,American Falls Reservoir,ID,AMF,NA,NA,NA,AMFI,NA,NA
+10,Anderson Ranch Dam,ID,AND,BRFI,NA,NA,ANDI,NA,NA
+11,Arrowrock Dam,ID,ARK,BTSI,NA,NA,NA,NA,NA
+12,Lucky Peak Reservoir,ID,LUC,NA,NA,NA,NA,NA,NA
+13,Crane Praire Reservoir,OR,CRA,NA,NA,NA,CRAO,NA,NA
+14,Crescent Lake,OR,CRE,NA,NA,NA,CREO,NA,NA
+15,Cascade Reservoir,ID,CSC,NA,NA,NA,CSCI,NA,NA
+16,Deadwood Dam,ID,DED,NA,NA,NA,NA,NA,NA
+17,Elwah Dam,WA,ELD,NA,NA,NA,NA,NA,NA
+18,Emigrant Lake,OR,EMI,NA,NA,NA,NA,NA,NA
+19,Black Canyon Dam,ID,EMM,NA,NA,NA,NA,NA,NA
+20,Glines Canyon Dam,WA,GLI,NA,NA,NA,NA,NA,NA
+21,Island Park,ID,ISL,NA,NA,NA,ISLI,NA,NA
+22,Jackson Lake,WY,JCK,NA,NA,NA,JKSY,NA,NA
+23,Milner Lake,ID,MIL,NA,NA,NA,NA,NA,NA
+24,Lake Walcott,ID,MIN,NA,NA,NA,MINI,NA,NA
+25,Ochoco Reservoir,OR,OCH,OCRO,NA,NA,OCHO,NA,NA
+26,Lake Owyhee,OR,OWY,ROMO,NA,NA,NA,NA,NA
+27,Palisades Reservoir,ID,PAL,NA,NA,NA,PALI,NA,NA
+28,Payette Lake,ID,PAY,NA,NA,NA,PAYI,NA,NA
+29,Phillips Lake,OR,PHL,NA,NA,NA,NA,NA,NA
+30,Potholes Reservoir,WA,POT,NA,NA,NA,NA,NA,NA
+31,Ririe Lake,ID,RIR,NA,NA,NA,NA,NA,NA
+32,Scoggins Dam,OR,SCO,NA,NA,NA,SCOO,NA,NA
+33,Soliders Meadow Reservoir,ID,SOL,NA,NA,NA,NA,NA,NA
+34,Thief Valley Dam,OR,THF,NA,NA,NA,NA,NA,NA
+35,Thompson Reservoir,OR,THM,NA,NA,NA,NA,NA,NA
+36,Warm Springs Reservoir,OR,WAR,NA,NA,NA,WARO,NA,NA
+37,Wickiup Reservoir,OR,WIC,NA,NA,NA,WICO,NA,NA
+38,Wildhorse Reservoir,NV,WLD,NA,NA,NA,WLDN,NA,NA
+39,Name,STATE,BUORID,NA,NA,NA,NA,NA,NA
+40,Name,STATE,BUORID,NA,NA,NA,NA,NA,NA
+41,Name,STATE,BUORID,NA,NA,NA,NA,NA,NA
+42,Name,STATE,BUORID,NA,NA,NA,NA,NA,NA
